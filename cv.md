@@ -10,7 +10,7 @@ i am 23,Have decided to change my profession from seaman to programmer.Was looki
 ##Myskills
 -CSS(basic)
 -HTML(basic)
--JAVASCRIPT(in process)
+-JavaScript(in process)
 ##Education
 - [State University of Infrastructure and Technologies](https://duit.edu.ua/)
  -Navigation and control of seagoing vessels
